@@ -1,3 +1,5 @@
+# Use parentheses for printing while using variables
+
 name = "Mike"
 age = "45"
 
